@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.des-image {
+  height: 160px;
+  width: 200px;
+}
+
+.des-card {
+  margin: 15px;
+}
+
+.des-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+}
